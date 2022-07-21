@@ -1,0 +1,2 @@
+# patikahayalimblog
+www.patika.dev
